@@ -14,3 +14,4 @@ Sovelluksella on seuraavia ominaisuuksia:
  * Asiakas voi luoda itselleen sopivan tilikartan annettujen vaihtoehtojen pohjalta.
  * Asiakas voi luokitella tilitapahtumat ja näitä luokitteluja voidaan käyttää myös tietokantakyselyissä.
  * Tilitapahtumista tallennetaan tietokantaan seuraavat tiedot: kuukausi/vuosi, talletuksen/maksun määrä, maksaja/maksunsaaja ja tapahtuman luokittelu (ja mahdollinen alaluokittelu).
+
